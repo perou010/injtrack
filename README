@@ -9,7 +9,7 @@ Instructions
 ------------
 
 	Clone
-		git clone https://github.umn.edu/perou010/injtrack.git && cd injtrack
+		git clone https://github.com/perou010/injtrack.git && cd injtrack
 	Compile (gcc)
 		gcc -o injtrack injtrack.c
 	Execute
