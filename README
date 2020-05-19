@@ -1,0 +1,18 @@
+------------
+Introduction
+------------
+
+	Injtrack builds a shipping notification document given an arbitrary amonut of tracking numbers.
+		
+------------
+Instructions
+------------
+
+	Clone
+		git clone https://github.umn.edu/perou010/injtrack.git && cd injtrack
+	Compile (gcc)
+		gcc -o injtrack injtrack.c
+	Execute
+		./injtrack <order number> <PO number> <1st tracking number> [2nd-nth tracking numbers]
+	View
+		Open order.html in a web browser
